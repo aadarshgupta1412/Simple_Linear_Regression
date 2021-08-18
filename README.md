@@ -15,3 +15,4 @@ The following packages have been used while training of the model and visualizat
 
 # Requirements 
 - Download the dataset from [here](https://s3.us-west-2.amazonaws.com/public.gamelab.fun/dataset/salary_data.csv)
+- Download this dataset, extract and store it in localdisk
